@@ -1,6 +1,6 @@
 # Real-Time Public Transit Tracking & Data Analysis
 
-## 🚍 Project Overview
+## Project Overview
 
 This project aims to provide **real-time updates** about public transit systems, focusing on **delays** and **estimated arrival times** for transit vehicles such as buses. Our prototype is built specifically for **Bloomington, Indiana**, but the architecture is scalable to other cities and transit systems.
 
@@ -22,7 +22,7 @@ Passengers often face uncertainty with bus/train arrival times and unexpected de
 
 ---
 
-## 🔧 Core Components & Free Tools
+## Core Components & Free Tools
 
 | Component       | Purpose                            | Free Tool Used                               |
 |-----------------|------------------------------------|----------------------------------------------|
@@ -36,16 +36,22 @@ Passengers often face uncertainty with bus/train arrival times and unexpected de
 ## System Architecture
 
 [Simulated GPS / Public Transit API (GTFS-RT)]
+
 |
 [Kafka Producer]
+
 |
 [Kafka Broker (Docker)]
+
 |
 [Spark Structured Streaming Job]
+
 |
 [Transformations & ETA Logic]
+
 |
 [PostgreSQL / Delta Table Storage]
+
 |
 [Streamlit Dashboard / REST API]
 
