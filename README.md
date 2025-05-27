@@ -22,7 +22,7 @@ Passengers often face uncertainty with bus/train arrival times and unexpected de
 
 ---
 
-## Core Components & Free Tools
+## Core Components
 
 | Component       | Purpose                            | Free Tool Used                               |
 |-----------------|------------------------------------|----------------------------------------------|
